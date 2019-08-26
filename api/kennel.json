@@ -46,16 +46,19 @@
         {
             "id": 1,
             "name": "Marlowe",
+            "phone": "6159234493",
             "animalId": 1
         },
         {
             "id": 2,
             "name": "Clem",
+            "phone": "6158275402",
             "animalId": 2
         },
         {
             "id": 3,
             "name": "Linus",
+            "phone": "6152317321",
             "animalId": 3
         }
     ],

@@ -5,7 +5,9 @@ class OwnerCard extends Component {
     return (
       <div className="card">
         <div className="card-content">
-          <h2>Owner: <span className="card-ownername">{this.props.owner.name}</span></h2>
+          <h2><span className="card-ownername">{this.props.owner.name}</span></h2>
+          <p><span className="card-ownerphone">{this.props.owner.phone}</span></p>
+          <button type="button" onClick={() => this.props.deleteOwner(this.props.owner.id)}>Bye</button>
         </div>
       </div>
     );
