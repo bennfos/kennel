@@ -5,7 +5,7 @@ class OwnerCard extends Component {
     return (
       <div className="card">
         <div className="card-content">
-          <p>Owner: </p>
+          <h2>Owner: <span className="card-ownername">{this.props.owner.name}</span></h2>
         </div>
       </div>
     );

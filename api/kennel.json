@@ -1,0 +1,79 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "breed": "Poodle",
+            "ownerId": 2,
+            "employeeId": 2,
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Decker",
+            "breed": "German Sheperd",
+            "ownerId": 2,
+            "employeeId": 2,
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Esme",
+            "breed": "Pitbull",
+            "ownerId": 2,
+            "employeeId": 2,
+            "locationId": 1
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": "1213 Puppy Way",
+            "city": "Nashville"
+        },
+        {
+            "id": 2,
+            "address": "324 Fur Lane",
+            "city": "Springfield"
+        },
+        {
+            "id": 3,
+            "address": "321 N Oak Street",
+            "city": "Nashville"
+        }
+    ],
+    "owners": [
+        {
+            "id": 1,
+            "name": "Marlowe",
+            "animalId": 1
+        },
+        {
+            "id": 2,
+            "name": "Clem",
+            "animalId": 2
+        },
+        {
+            "id": 3,
+            "name": "Linus",
+            "animalId": 3
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jenny",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Bennett",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Jimothan",
+            "locationId": 3
+        }
+    ]
+}
