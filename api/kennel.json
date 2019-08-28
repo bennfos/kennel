@@ -2,24 +2,16 @@
   "animals": [
     {
       "id": 1,
-      "name": "Doodles!",
-      "breed": "Poodle"
+      "name": "Jennyhjb"
     },
     {
       "id": 2,
-      "name": "Decker",
-      "breed": "German Sheperd",
-      "ownerId": 2,
-      "employeeId": 2,
-      "locationId": 1
+      "name": "Clem",
+      "phone": "6158275403"
     },
     {
       "id": 3,
-      "name": "Esme",
-      "breed": "Pitbull",
-      "ownerId": 2,
-      "employeeId": 2,
-      "locationId": 1
+      "name": "Jimothan!!!"
     },
     {
       "name": "BooBoo",
@@ -40,8 +32,8 @@
     },
     {
       "id": 2,
-      "address": "324 Fur Lane",
-      "city": "Springfield"
+      "address": "354 Bllaadcvsd",
+      "city": "Nashville!"
     },
     {
       "id": 3,
@@ -53,41 +45,35 @@
     {
       "id": 1,
       "name": "Marlowe",
-      "phone": "6159234493",
-      "animalId": 1
+      "phone": "6159234493"
     },
     {
       "id": 2,
-      "name": "Clem",
-      "phone": "6158275402",
-      "animalId": 2
+      "name": "Clem!",
+      "phone": "6158275402"
     },
     {
       "id": 3,
       "name": "Linus",
-      "phone": "6152317321",
-      "animalId": 3
+      "phone": "6152317321"
     }
   ],
   "employees": [
     {
       "id": 1,
-      "name": "Jenny",
-      "locationId": 1
+      "name": "Jenny!"
     },
     {
       "id": 2,
-      "name": "Bennett",
-      "locationId": 2
+      "name": "Bennett"
     },
     {
       "id": 3,
-      "name": "Jimothan",
-      "locationId": 3
+      "name": "Jimothannnn"
     },
     {
-      "name": "Marlowe",
-      "id": 4
+      "id": 4,
+      "name": "Marlowe"
     }
   ]
 }
