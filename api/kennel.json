@@ -1,82 +1,96 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "ownerId": 2,
-            "employeeId": 2,
-            "locationId": 1
-        },
-        {
-            "id": 2,
-            "name": "Decker",
-            "breed": "German Sheperd",
-            "ownerId": 2,
-            "employeeId": 2,
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Esme",
-            "breed": "Pitbull",
-            "ownerId": 2,
-            "employeeId": 2,
-            "locationId": 1
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "address": "1213 Puppy Way",
-            "city": "Nashville"
-        },
-        {
-            "id": 2,
-            "address": "324 Fur Lane",
-            "city": "Springfield"
-        },
-        {
-            "id": 3,
-            "address": "321 N Oak Street",
-            "city": "Nashville"
-        }
-    ],
-    "owners": [
-        {
-            "id": 1,
-            "name": "Marlowe",
-            "phone": "6159234493",
-            "animalId": 1
-        },
-        {
-            "id": 2,
-            "name": "Clem",
-            "phone": "6158275402",
-            "animalId": 2
-        },
-        {
-            "id": 3,
-            "name": "Linus",
-            "phone": "6152317321",
-            "animalId": 3
-        }
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Jenny",
-            "locationId": 1
-        },
-        {
-            "id": 2,
-            "name": "Bennett",
-            "locationId": 2
-        },
-        {
-            "id": 3,
-            "name": "Jimothan",
-            "locationId": 3
-        }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "ownerId": 2,
+      "employeeId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Decker",
+      "breed": "German Sheperd",
+      "ownerId": 2,
+      "employeeId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Esme",
+      "breed": "Pitbull",
+      "ownerId": 2,
+      "employeeId": 2,
+      "locationId": 1
+    },
+    {
+      "name": "BooBoo",
+      "breed": "Hoss",
+      "id": 4
+    },
+    {
+      "name": "The Beast",
+      "breed": "Beast",
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "address": "1213 Puppy Way",
+      "city": "Nashville"
+    },
+    {
+      "id": 2,
+      "address": "324 Fur Lane",
+      "city": "Springfield"
+    },
+    {
+      "id": 3,
+      "address": "321 N Oak Street",
+      "city": "Nashville"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Marlowe",
+      "phone": "6159234493",
+      "animalId": 1
+    },
+    {
+      "id": 2,
+      "name": "Clem",
+      "phone": "6158275402",
+      "animalId": 2
+    },
+    {
+      "id": 3,
+      "name": "Linus",
+      "phone": "6152317321",
+      "animalId": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jenny",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bennett",
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Jimothan",
+      "locationId": 3
+    },
+    {
+      "name": "Marlowe",
+      "id": 4
+    }
+  ]
 }
